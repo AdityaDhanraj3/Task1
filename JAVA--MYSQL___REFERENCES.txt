@@ -1,0 +1,74 @@
+->JDBC delete records example : 
+https://www.google.com/url?q=https://www.tutorialspoint.com/jdbc/jdbc-delete-records.htm&sa=D&source=hangouts&ust=1605704057410000&usg=AFQjCNFFnhNu8Bh43sJja-W6YGyqPbBmRQ
+
+
+-> RESTful Web Services with Java JAX-RS using Jersey
+https://www.google.com/url?q=https://javapapers.com/java/restful-web-services-with-java-jax-rs-using-jersey/&sa=D&source=hangouts&ust=1605704057410000&usg=AFQjCNG2EgN0w9qryoAj4ePHgg223I8qhw
+
+
+->GIT INSTALLATION 
+https://youtu.be/2j7fD92g-gE
+
+
+->GIT and GITHUB crash course
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+
+->LEARN GIT
+https://www.youtube.com/watch?v=USjZcfj8yxE
+
+
+->Write a program to create deadlock between two threads
+https://www.java2novice.com/java-interview-programs/thread-deadlock/
+
+
+->Unicode, UTF-8, and ASCII encodings made easy
+https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
+
+
+->MySQL Common Table Expression (CTE) (MYSQL)
+https://www.javatpoint.com/mysql-common-table-expression
+
+
+->HASHMAP VS WEAKHASHMAP
+https://www.geeksforgeeks.org/hashmap-vs-weakhashmap-java/
+
+
+->Callable and Future in Java
+https://www.geeksforgeeks.org/callable-future-java/?ref=lbp
+
+
+->Thread Pools in Java
+https://www.geeksforgeeks.org/thread-pools-java/?ref=lbp
+
+
+->TIMSORT SORTING
+https://www.geeksforgeeks.org/timsort/
+
+
+->Top 10 algorithms in Interview Questions
+https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+
+
+->KK JAVA TUTORIALS (FOR FUTURE REFERENCE)
+https://www.youtube.com/channel/UC9aUqnxhYLge4tLdBI50Cwg
+
+
+->AMAZON CODING INTERVIEW QUESTION--COIN CHANGE
+https://www.youtube.com/watch?v=1R0_7HqNaW0
+
+
+->AMAZON CODING INTERVIEW QUESTION--WORD SEARCH
+https://www.youtube.com/watch?v=vYYNp0Jrdv0
+
+
+->COMPRESSING ALGORITHM--HUFFMAN coding -GREEDY METHOD
+https://www.youtube.com/watch?v=co4_ahEDCho
+
+
+->DYNAMIC PROGRAM
+https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/m2G1pAq0OO0
+
+
+->HEAP--HEAP SORT--HEAPIFY--PRIORITY QUEUES
+https://www.youtube.com/watch?v=HqPJF2L5h9U&t=437s
