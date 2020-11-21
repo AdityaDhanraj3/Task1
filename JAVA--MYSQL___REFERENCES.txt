@@ -72,3 +72,7 @@ https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-codin
 
 ->HEAP--HEAP SORT--HEAPIFY--PRIORITY QUEUES
 https://www.youtube.com/watch?v=HqPJF2L5h9U&t=437s
+
+
+->GRAPHS_CONCEPT(FULL COURSE)
+https://meet.google.com/linkredirect?authuser=2&dest=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D09_LlHjoEiY%26t%3D1498s
