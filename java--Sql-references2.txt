@@ -1,0 +1,54 @@
+
+->MASTERING DATA STRUCTURES AND ALGORITHMS WITH C AND C++ TRAINING
+https://www.udemy.com/course/datastructurescncpp/?referralCode=BD2EF8E61A98AB5E011D
+
+
+->B Trees and B+ Trees. How they are useful in Databases (indexing)
+https://www.youtube.com/watch?v=aZjYr87r1b8
+
+
+->Networking basics (2020) | What is a switch, router, gateway, subnet, gateway, firewall & DMZ
+https://www.youtube.com/watch?v=_IOZ8_cPgu8&feature=youtu.be
+
+
+->DESIGN PATTERNS IN JAVA 
+https://www.tutorialspoint.com/design_pattern/index.htm
+
+
+->System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook
+https://www.youtube.com/watch?v=DSGsa0pu8-k&feature=youtu.be
+
+
+->Parking Lot System Design | Object-Oriented Design Interview Question
+https://www.youtube.com/watch?v=tVRyb4HaHgw&feature=youtu.be
+
+
+->Type Erasure in Java Generics | Type Erasure and Java Generics
+https://www.youtube.com/watch?v=6HoPGat-rqM
+
+
+->How to install Java Decompiler in Eclipse IDE
+https://www.youtube.com/watch?v=7PncGQ-04OY
+
+
+->How detect and resolve DeadLocks in Java
+https://www.youtube.com/watch?v=B4IVu-2hCos&feature=youtu.be
+
+
+->Java Concurrency Interview Question: How to timeout a thread?
+https://www.youtube.com/watch?v=_RSAS-gIjGo&feature=youtu.be
+
+
+->Java Concurrency Interview: Implement Producer Consumer pattern using wait-notify
+https://www.youtube.com/watch?v=UOr9kMCCa5g&feature=youtu.be
+
+
+->Java Memory Model in 10 minutes
+https://www.youtube.com/watch?v=Z4hMFBvCDV4&feature=youtu.be
+
+
+->How HashMap works in Java? With Animation!! whats new in java8 tutorial
+https://www.youtube.com/watch?v=c3RVW3KGIIE&feature=youtu.be
+
+
+->
